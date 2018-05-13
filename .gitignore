@@ -45,3 +45,17 @@ proguard/
 captures/
 
 
+### https://raw.github.com/github/gitignore/ac5cd42a926545287b20fac21621b286831cb74e/Global/VirtualEnv.gitignore
+
+# Virtualenv
+# http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+pip-selfcheck.json
+
+
