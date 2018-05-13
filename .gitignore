@@ -58,4 +58,6 @@ captures/
 pyvenv.cfg
 pip-selfcheck.json
 
-
+### pytest
+.pytest_cache/
+.tests/__pycache__/
